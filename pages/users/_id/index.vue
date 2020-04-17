@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  layout: 'users',
+  layout: 'header-main',
   validate({params}) {
     // Must be a number 路由參數ID只能輸入數字
     // 若不為數字則會自動加載顯示404錯誤頁面

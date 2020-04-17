@@ -6,6 +6,6 @@
 </template>
 <script>
 export default {
-    layout: 'users',
+    layout: 'header-main',
 };
 </script>
